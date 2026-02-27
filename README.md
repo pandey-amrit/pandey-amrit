@@ -1,27 +1,41 @@
-<h1 align="center">Hi 👋, I'm Amrit Pandey</h1>
-<h3 align="center">A passionate Artificial Intelligence and Machine Learning coder</h3>
-
-- 🔭 I’m currently working on **Shop lifting project**
-
-- 🌱 I’m currently learning **Computer Vision on deep level.**
-
-- 👯 I’m looking to collaborate on **project for Automated Driving**
-
-- 💬 Ask me about **how AI works! ✨**
-
-- 📫 How to reach me **amritsga123@gmail.com**
-
-- 🌐 Portfolio: [amritpandey.xyz](https://amritpandey.xyz)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/amritpandey/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amritpandey" height="30" width="40" />
-  </a>
-  <a href="https://amritpandey.xyz" target="blank">
-    <img align="center" src="https://img.icons8.com/fluency/48/domain.png" alt="Portfolio" height="30" width="40" />
-  </a>
+<h1 align="center">Hi, I'm Amrit Pandey</h1>
+<p align="center">
+  MS in Artificial Intelligence @ University at Buffalo
+</p>
+<p align="center">
+  ML Engineer | AI Engineer | Multimodal AI • Computer Vision • Applied Deep Learning
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
+
+## About Me
+- Master's student in Artificial Intelligence at the University at Buffalo
+- Focused on building end-to-end AI systems, multimodal learning pipelines, and production-oriented ML applications
+- Interested in ML Engineering, Computer Vision, LLM Systems, and Research Engineering
+- Open to full-time opportunities in AI/ML Engineering, Research Engineering, and Applied AI
+
+## Featured Projects
+| Project | Description | Stack |
+|--------|-------------|-------|
+| Handwriting-to-Text CRNN | Deep learning pipeline for handwritten text recognition | Python, PyTorch, CNN, RNN |
+| Multimodal Movie Genre Classification | Fusion model using text + image for movie genre prediction | Python, PyTorch, Flask |
+| VLM Assistive AI | Vision-language system to help blind users understand scenes | Python, CV, VLM |
+| Large-Scale Poster Pipeline | High-throughput data pipeline for poster collection and metadata retrieval | Python, APIs, multiprocessing |
+
+## Current Focus
+- Multimodal AI and computer vision
+- Production-ready ML systems
+- Model evaluation and deployment
+- Research-driven deep learning projects
+
+## Tech Stack
+**Languages:** Python, SQL, C++  
+**ML/DL:** PyTorch, TensorFlow, scikit-learn  
+**CV/LLMs:** OpenCV, Transformers  
+**Backend:** Flask, FastAPI  
+**Tools:** Git, Linux, Docker, MongoDB
+
+## Connect With Me
+- Portfolio: [amritpandey.xyz](https://amritpandey.xyz)
+- LinkedIn: [linkedin.com/in/amritpandey](https://linkedin.com/in/amritpandey/)
+- Email: amritsga123@gmail.com
