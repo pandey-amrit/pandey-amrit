@@ -1,4 +1,6 @@
-<h1 align="center">Hi, I'm Amrit Pandey</h1>
+<h1 align="center">
+  Hi, I'm <a href="https://amritpandey.xyz">Amrit Pandey</a>
+</h1>
 <p align="center">
   MS in Artificial Intelligence @ University at Buffalo
 </p>
