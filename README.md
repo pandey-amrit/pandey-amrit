@@ -19,10 +19,9 @@
 ## Featured Projects
 | Project | Description | Stack |
 |--------|-------------|-------|
-| Handwriting-to-Text CRNN | Deep learning pipeline for handwritten text recognition | Python, PyTorch, CNN, RNN |
 | Multimodal Movie Genre Classification | Fusion model using text + image for movie genre prediction | Python, PyTorch, Flask |
 | VLM Assistive AI | Vision-language system to help blind users understand scenes | Python, CV, VLM |
-| Large-Scale Poster Pipeline | High-throughput data pipeline for poster collection and metadata retrieval | Python, APIs, multiprocessing |
+| Handwriting-to-Text CRNN | Deep learning pipeline for handwritten text recognition | Python, PyTorch, CNN, RNN |
 
 ## Current Focus
 - Multimodal AI and computer vision
@@ -40,4 +39,4 @@
 ## Connect With Me
 - Portfolio: [amritpandey.xyz](https://amritpandey.xyz)
 - LinkedIn: [linkedin.com/in/amritpandey](https://linkedin.com/in/amritpandey/)
-- Email: amritsga123@gmail.com
+- Email: query.amrit@gmail.com
